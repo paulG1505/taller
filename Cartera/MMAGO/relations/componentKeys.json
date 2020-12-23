@@ -2,6 +2,9 @@
 	"Entities": {
 		"EN_CLIENTECU_894": {
 			"name": "Cliente"
+		},
+		"EN_CUENTANBP_148": {
+			"name": "Cuenta"
 		}
 	}
 }
