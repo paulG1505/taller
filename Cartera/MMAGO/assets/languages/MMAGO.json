@@ -1,10 +1,13 @@
 {
-    "MMAGO": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMAGO": {
+		"LBL": {
+			"LBL_MMAGO_APELLIDOO_27607": "apellido",
+			"LBL_MMAGO_CEDULAUDK_93046": "cedula",
+			"LBL_MMAGO_GUARDARGH_68452": "Guardar",
+			"LBL_MMAGO_NOMBREIPS_67042": "Nombre",
+			"LBL_MMAGO_TELEFONOO_51257": "telefono"
+		},
+		"MSG": {
+		}
+	}
 }

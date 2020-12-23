@@ -8,6 +8,35 @@
 		}
 	},
 	"Forms": {
+		"T_MMAGOHJTBTZFU_145": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTECU_894": [
+					"AT63_NOMBRELO894",
+					"AT69_CEDULAJR894",
+					"AT78_TELEFOON894",
+					"AT93_APELLIOO894"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMAGO_APELLIDOO_27607",
+				"LBL_MMAGO_CEDULAUDK_93046",
+				"LBL_MMAGO_GUARDARGH_68452",
+				"LBL_MMAGO_NOMBREIPS_67042",
+				"LBL_MMAGO_TELEFONOO_51257"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

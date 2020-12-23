@@ -3,5 +3,18 @@
 		"EN_CLIENTECU_894": {
 			"name": "Cliente"
 		}
+	},
+	"SSMMR": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMAGOHJTBTZFU_145": {
+				"name": "FormCliente"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
