@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2020",
+	"moduleId": "MMAGO",
+	"modules": [
+		{
+			"moduleId": "MMAGO",
+			"moduleName": "Main",
+			"subModules": [
+				{
+					"subModuleId": "SSMMR",
+					"subModuleName": "Main"
+				}
+			]
+		}
+	],
+	"projectName": "Cartera",
+	"subModuleId": "SSMMR"
+}
