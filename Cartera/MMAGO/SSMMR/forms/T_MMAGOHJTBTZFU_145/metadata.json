@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_CLIENTECU_894",
+			"isContextEntity": null,
+			"moduleId": "MMAGO",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}

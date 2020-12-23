@@ -6,5 +6,18 @@
 		"EN_CUENTANBP_148": {
 			"name": "Cuenta"
 		}
+	},
+	"SSMMR": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMAGOHJTBTZFU_145": {
+				"name": "FormCliente"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
